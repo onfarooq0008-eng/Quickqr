@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">QuickQR</string>
+
+    <!-- Scanner -->
+    <string name="scan_hint">Point your camera at a QR code or barcode</string>
+    <string name="camera_permission_message">QuickQR needs camera access to scan codes live. You can still scan photos from your gallery without it.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="scan_from_gallery_instead">Scan a Photo Instead</string>
+
+    <!-- History -->
+    <string name="history_title">History</string>
+    <string name="clear_all">Clear All</string>
+    <string name="empty_history">Your scanned codes will show up here</string>
+
+    <!-- Generator -->
+    <string name="create_qr_title">Create a QR Code</string>
+    <string name="chip_text">Text</string>
+    <string name="chip_url">URL</string>
+    <string name="chip_wifi">Wi\u2011Fi</string>
+    <string name="chip_email">Email</string>
+    <string name="chip_phone">Phone</string>
+    <string name="content_hint">Type or paste content here</string>
+    <string name="generate_qr">Generate QR Code</string>
+    <string name="save">Save</string>
+    <string name="share">Share</string>
+    <string name="generated_qr_description">Generated QR code</string>
+
+    <!-- Result -->
+    <string name="result_title">Scan Result</string>
+    <string name="wifi_details">Network: %1$s\nPassword: %2$s\nSecurity: %3$s</string>
+</resources>
